@@ -19,7 +19,7 @@ pwm.set_pwm_freq(50)
 
 init_pwm0 = 300
 init_pwm1 = 300
-init_pwm2 = 300
+init_pwm2 = 350
 init_pwm3 = 300
 
 init_pwm4 = 300
